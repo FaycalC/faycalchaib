@@ -1,24 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@FaycalC 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-0
-00dirtourna/dirtourna.github.io
- Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights
-dirtourna.github.io/index.html
-@dirtourna dirtourna .
-464c1fb 6 days ago
-504 lines (437 sloc)  30.4 KB
-  
 <!DOCTYPE html>
 <html lang="fr">
 <head>
